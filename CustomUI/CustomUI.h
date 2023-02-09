@@ -8,8 +8,6 @@
     auto generated vex.h file
 
   Version: 1.0
-
-  Written By: Connor Axtell
 */
 
 #define BIT(x) (1 << x)

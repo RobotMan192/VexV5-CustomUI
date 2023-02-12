@@ -1,9 +1,11 @@
 # VexV5-CustomUI
-A library to help with creating GUI for VexV5 brains 
+A library to assist with creating GUI on the Vex V5 Brain
+Allows creation of included widgets or custom ones that you make yourself
 
 #### Currently comes bundled with the following widgets:
 1. Button
-2. ComboBox
+2. Combo Box
+3. Text Box
 
 ## Installation
 1. Install the library by creating a new folder called "lib" in your project directory

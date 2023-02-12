@@ -16,6 +16,7 @@
 #define PRINTMSG(s) printf("Custom UI: %s\n",s)
 
 #include "vex.h"
+#include <string>
 #include <vector>
 
 #include "CustomUITypes.h"

@@ -1,8 +1,10 @@
 # VexV5-CustomUI
 A library to help with creating GUI for VexV5 brains
 
+
 ## Installation
 1. Install the library by creating a new folder called "lib" in your project directory
+make sure that you only do this in the file explorer not the project editor
 2. Drag and drop the CustomUI directory into it
 3. Update your projects makefile by adding the following code
 

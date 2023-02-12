@@ -1,5 +1,7 @@
 # VexV5-CustomUI
-A library to help with creating GUI for VexV5 brains
+A library to help with creating GUI for VexV5 brains 
+
+#### currently comes bundled with the following widgets:
 
 
 ## Installation

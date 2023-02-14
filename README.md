@@ -1,6 +1,6 @@
 # VexV5-CustomUI
 A library to assist with creating GUI on the Vex V5 Brain. Allows creation of included widgets or custom ones that you make yourself. This is not a pros UI library, it is made for use with vexcode pro.
-###### Check out the wiki https://github.com/RobotMan192/VexV5-CustomUI/wiki
+###### Check out the wiki: https://github.com/RobotMan192/VexV5-CustomUI/wiki
 
 #### Currently comes bundled with the following widgets:
 1. Button
